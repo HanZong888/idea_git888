@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("dev在第10行添加内容");
         System.out.println("测试推送本地库到远程库");
         System.out.println("测试通过SSH地址推送本地库到远程");
+        System.out.println("HanZong666更新");
     }
 }
